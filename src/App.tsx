@@ -55,6 +55,13 @@ function App() {
 								background: "green",
 							}}
 						>
+							<a
+								href="https://github.com/arunkumar201/photo-album"
+								target="_next"
+								style={{ color: "blue", textDecoration: "none" }}
+							>
+								GitHub Link
+							</a>
 							<h2>Photo Albums</h2>
 						</div>
 						<div
